@@ -50,4 +50,5 @@ O sistema simples de finanças pessoais e tem como objetivo permitir que um usu�
 * HTML, CSS e JavaScript — Front-end
 
 
+<img width="876" height="750" alt="Diagrama caso de uso" src="https://github.com/user-attachments/assets/427121d7-5a91-4e4b-b700-620523db4d82" />
 
