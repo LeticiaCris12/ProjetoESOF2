@@ -52,3 +52,6 @@ O sistema simples de finan√ßas pessoais e tem como objetivo permitir que um usu√
 
 <img width="876" height="750" alt="Diagrama caso de uso" src="https://github.com/user-attachments/assets/427121d7-5a91-4e4b-b700-620523db4d82" />
 
+<img width="752" height="600" alt="Diagrama de classes" src="https://github.com/user-attachments/assets/ef4963ae-3187-4750-8d35-ccaa4c9b34fd" />
+
+
