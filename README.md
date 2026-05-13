@@ -54,4 +54,6 @@ O sistema simples de finan√ßas pessoais e tem como objetivo permitir que um usu√
 
 <img width="752" height="600" alt="Diagrama de classes" src="https://github.com/user-attachments/assets/ef4963ae-3187-4750-8d35-ccaa4c9b34fd" />
 
+### Diagrama de Sequencia
+<img width="1408" height="862" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/dde712f1-123c-4c02-b062-95f0744e91ca" />
 
