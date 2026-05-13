@@ -57,3 +57,15 @@ O sistema simples de finan√ßas pessoais e tem como objetivo permitir que um usu√
 ### Diagrama de Sequencia
 <img width="1408" height="862" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/dde712f1-123c-4c02-b062-95f0744e91ca" />
 
+### Diagrama de Componentes
+<img width="1229" height="396" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/37bfb9ec-49e5-4ef6-804e-870c181b549a" />
+
+### Diagrama de Deployment
+<img width="1305" height="538" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/a2a59194-22fa-4024-8bdc-3f20dd59b4dc" />
+
+### Diagrama de Atividades
+<img width="832" height="1241" alt="mermaid-diagram (3)" src="https://github.com/user-attachments/assets/ebbb2c26-bdd8-4665-ba77-71a0a21537f5" />
+
+### Diagrama de Containers
+<img width="1723" height="536" alt="mermaid-diagram (4)" src="https://github.com/user-attachments/assets/80ac770f-d13f-4567-8955-fb7c8fef9448" />
+
