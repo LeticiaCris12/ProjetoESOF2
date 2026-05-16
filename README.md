@@ -44,7 +44,7 @@ O sistema simples de finanças pessoais e tem como objetivo permitir que um usu�
 - RNF05	O sistema deve rodar localmente com um único comando
 
 ### Tecnologias Utilizadas
-* Node.js — Back-end
+* Node.js e Java — Back-end
 * Express — API REST
 * Docker — Containerização
 * HTML, CSS e JavaScript — Front-end
