@@ -63,6 +63,5 @@ O sistema simples de finan√ßas pessoais e tem como objetivo permitir que um usu√
 ### Diagrama de Atividades
 <img width="832" height="1241" alt="mermaid-diagram (3)" src="https://github.com/user-attachments/assets/ebbb2c26-bdd8-4665-ba77-71a0a21537f5" />
 
-### Diagrama de Containers
-<img width="1723" height="536" alt="mermaid-diagram (4)" src="https://github.com/user-attachments/assets/80ac770f-d13f-4567-8955-fb7c8fef9448" />
+
 
